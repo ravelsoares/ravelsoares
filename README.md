@@ -1,10 +1,11 @@
 ### Oi, sou Ravel 👋
  
 ### ​🛠 ​&nbsp;​Tech Stack   
- ​![​HTML​](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=Flutter)​&nbsp; 
- ​![​HTML​](https://img.shields.io/badge/-Dart-02569B?style=for-the-badge&logo=Dart)​&nbsp;
+ ​![​Flutter​](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=Flutter)​&nbsp; 
+ ​![​Dart​](https://img.shields.io/badge/-Dart-02569B?style=for-the-badge&logo=Dart)​&nbsp;
  ![​HTML​](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)​&nbsp;
  ​![​CSS​](https://img.shields.io/badge/-CSS-b39f04?style=for-the-badge&logo=CSS3&logoColor=white)​&nbsp;
+ ![​CSS​](https://img.shields.io/badge/-Git-faa702?style=for-the-badge&logo=Git&logoColor=white)​&nbsp;
  ​
  
  ![​ViewCount​](https://komarev.com/ghpvc/?username=ravelsoares&color=1A4730)

@@ -18,12 +18,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravelsoares&layout=compact&theme=radical)](https://github.com/ravelsoares/github-readme-stats)
 
-### 🔥 Repositórios em Destaque
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ravelsoares&repo=seu-repositorio-destaque&theme=radical)](https://github.com/ravelsoares/seu-repositorio-destaque)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ravelsoares&repo=outro-repositorio-destaque&theme=radical)](https://github.com/ravelsoares/outro-repositorio-destaque)
-
 ### 🌱 Sempre aprendendo e compartilhando conhecimento!
 
 ![ViewCount](https://komarev.com/ghpvc/?username=ravelsoares&color=blueviolet)

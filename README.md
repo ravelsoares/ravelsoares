@@ -7,7 +7,7 @@
  ​![​CSS​](https://img.shields.io/badge/-CSS-b39f04?style=for-the-badge&logo=CSS3&logoColor=white)​&nbsp;
  ![​Git​](https://img.shields.io/badge/-Git-faa702?style=for-the-badge&logo=Git&logoColor=white)​&nbsp;
  ​![Java](https://img.shields.io/badge/-Java-b25f83?style=for-the-badge&logo=Java&logoColor=white)&nbsp;
- ![Python](https://img.shields.io/badge/-Python-700670?style=for-the-badge&logo=Python&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 
  ![​ViewCount​](https://komarev.com/ghpvc/?username=ravelsoares&color=1A4730)
 
